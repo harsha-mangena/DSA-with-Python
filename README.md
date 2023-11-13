@@ -1,10 +1,10 @@
 # Data Structures and Algorithms (DSA)
 
-## About the Project
+## About the repository
 
 This repository is dedicated to providing comprehensive solutions and explanations for various Data Structures and Algorithms problems. It aims to be a resource for learners, educators, and developers seeking to enhance their understanding of these fundamental computer science concepts.
 
-### Topics Covered
+### Topics Covered/will be Covered
 
 - **Basic Data Structures**: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs
 - **Algorithms**: Sorting (Bubble, Merge, Quick), Searching (Binary, Linear), Dynamic Programming, Greedy Algorithms
@@ -38,9 +38,3 @@ Contributions are what make the open-source community such an amazing place to l
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-
-Your Name - [Your Email](mailto:your-email@example.com)
-
-Project Link: [https://github.com/yourusername/DSA](https://github.com/yourusername/DSA)
