@@ -151,3 +151,29 @@ Space complexity measures the total amount of memory that an algorithm uses rela
      def create_matrix(rows, cols):
          return [[0 for _ in range(cols)] for _ in range(rows)]
      ```
+
+     ## Quiz: Test Your Understanding
+
+Test your understanding of time and space complexities with these tricky questions:
+
+1. **Question 1:** What is the time complexity of an algorithm that involves a single loop from 1 to n where within each iteration, a constant-time operation is performed?
+
+2. **Question 2:** Consider a recursive function that splits an array into two halves at each step. What is the time complexity of this function?
+
+3. **Question 3:** What is the space complexity of an iterative Fibonacci sequence implementation?
+
+4. **Question 4:** How does the space complexity change if a recursive algorithm is optimized using memoization?
+
+5. **Question 5:** Given an algorithm that sorts an array using bubble sort, what is its time complexity?
+
+6. **Question 6:** If an algorithm's runtime doubles with each additional element in the input, what is its time complexity?
+
+7. **Question 7:** What is the space complexity of an algorithm that creates a new integer array of size n?
+
+8. **Question 8:** An algorithm involves two nested loops, each running from 1 to n. What is the time complexity of this algorithm?
+
+9. **Question 9:** What time complexity category does binary search belong to?
+
+10. **Question 10:** If an algorithm includes two consecutive loops (not nested) that run from 1 to n, what is its time complexity?
+
+
