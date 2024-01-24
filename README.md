@@ -4,7 +4,7 @@
 
 This repository is dedicated to providing comprehensive solutions and explanations for various Data Structures and Algorithms problems. It aims to be a resource for learners, educators, and developers seeking to enhance their understanding of these fundamental computer science concepts.
 
-### Topics Covered/will be Covered
+### Topics
 
 - **Basic Data Structures**: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs
 - **Algorithms**: Sorting (Bubble, Merge, Quick), Searching (Binary, Linear), Dynamic Programming, Greedy Algorithms
