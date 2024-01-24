@@ -11,20 +11,6 @@ This repository is dedicated to providing comprehensive solutions and explanatio
 - **Advanced Topics**: Graph Algorithms (Dijkstra's, Kruskal's), Tree Algorithms (BST operations, AVL Trees)
 - **Problem Solving**: Solutions to classic DSA problems and challenges from platforms like LeetCode, HackerRank, etc.
 
-## Getting Started
-
-To get started with this repository:
-
-1. Clone the repository:
-   \```
-   git clone [your-repo-link]
-   \```
-2. Navigate to the specific algorithm or data structure directory.
-3. Each directory contains:
-   - Source code in various programming languages.
-   - A README.md explaining the concept and its applications.
-   - Sample input-output files for testing.
-
 ## Contribution Guidelines
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
