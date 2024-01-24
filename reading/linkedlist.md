@@ -4,8 +4,6 @@
 - [Node Class](#node-class)
 - [LinkedList Class](#linkedlist-class)
 - [Usage](#usage)
-- [Real-Life Applications](#real-life-applications)
-- [Testing](#testing)
 
 ## Node Class
 
