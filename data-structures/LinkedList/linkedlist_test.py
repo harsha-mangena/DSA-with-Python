@@ -1,6 +1,7 @@
 import unittest
 from linkedlist import LinkedList  # Replace with the actual module name
 
+
 class TestLinkedList(unittest.TestCase):
 
     def test_insert_at_beginning(self):
